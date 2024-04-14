@@ -50,7 +50,7 @@ root@onecloud:~# blkid
   docker pull doctorpeso/drawio-arm
   docker run -dit --name=draw-io -p 8080:8080 doctorpeso/drawio-arm
   ```
-- EmulatorJS
+- EmulatorJS (目前不支持arm)
   ```
   docker pull linuxserver/emulatorjs
   docker run -d --name emulatorjs -e PUID=1000 -e PGID=1000 -e TZ=Asia/Shanghai -p 80:80 -p 3000:3000 -v /var/www/emulatorjs/config:/config -v /var/www/emulatorjs/data:/data linuxserver/emulatorjs
