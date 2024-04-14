@@ -43,3 +43,10 @@ root@onecloud:~# blkid
 
 #### 内网穿透
 推荐 [tailscale](https://tailscale.com/), 简单方便
+
+#### Docker应用推荐
+DrawIO: 
+```
+docker pull doctorpeso/drawio-arm
+docker run -dit --name=draw-io -p 8080:8080 doctorpeso/drawio-arm
+```
