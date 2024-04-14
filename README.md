@@ -52,6 +52,8 @@ root@onecloud:~# blkid
   ```
 - EmulatorJS (目前不支持arm)
   ```
+  # https://www.bilibili.com/read/cv21205700/
+  # https://blog.csdn.net/weixin_56714594/article/details/133909332
   docker pull linuxserver/emulatorjs
   docker run -d --name emulatorjs -e PUID=1000 -e PGID=1000 -e TZ=Asia/Shanghai -p 80:80 -p 3000:3000 -v /var/www/emulatorjs/config:/config -v /var/www/emulatorjs/data:/data linuxserver/emulatorjs
   ```
