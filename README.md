@@ -46,11 +46,10 @@ root@onecloud:~# blkid
 
 #### Docker应用推荐
 - DrawIO:
-- ```
+  ```
   docker pull doctorpeso/drawio-arm
   docker run -dit --name=draw-io -p 8080:8080 doctorpeso/drawio-arm
   ```
-
 - EmulatorJS
   ```
   docker pull linuxserver/emulatorjs
