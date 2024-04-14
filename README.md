@@ -45,8 +45,14 @@ root@onecloud:~# blkid
 推荐 [tailscale](https://tailscale.com/), 简单方便
 
 #### Docker应用推荐
-DrawIO: 
-```
-docker pull doctorpeso/drawio-arm
-docker run -dit --name=draw-io -p 8080:8080 doctorpeso/drawio-arm
-```
+- DrawIO:
+- ```
+  docker pull doctorpeso/drawio-arm
+  docker run -dit --name=draw-io -p 8080:8080 doctorpeso/drawio-arm
+  ```
+
+- EmulatorJS
+  ```
+  docker pull linuxserver/emulatorjs
+  docker run -d --name emulatorjs -e PUID=1000 -e PGID=1000 -e TZ=Asia/Shanghai -p 80:80 -p 3000:3000 -v /var/www/emulatorjs/config:/config -v /var/www/emulatorjs/data:/data linuxserver/emulatorjs
+  ```
