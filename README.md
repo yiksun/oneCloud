@@ -57,3 +57,12 @@ root@onecloud:~# blkid
   docker pull linuxserver/emulatorjs
   docker run -d --name emulatorjs -e PUID=1000 -e PGID=1000 -e TZ=Asia/Shanghai -p 80:80 -p 3000:3000 -v /var/www/emulatorjs/config:/config -v /var/www/emulatorjs/data:/data linuxserver/emulatorjs
   ```
+- Memos (armv7) [在玩客云上用Docker部署memos](https://ruohai.wang/202311/memos-install-on-onecloud/)
+  ```
+  docker run -d \
+    --init \
+    --name memos \
+    --publish 5230:5230 \
+    --volume /media/devmon/sda1-ata-TOSHIBA_MQ01ABD0/docker-volumes/memos/:/var/opt/memos \
+    neosmemo/memos:0.15.0
+  ```
