@@ -66,3 +66,17 @@ root@onecloud:~# blkid
     --volume /media/devmon/sda1-ata-TOSHIBA_MQ01ABD0/docker-volumes/memos/:/var/opt/memos \
     neosmemo/memos:0.15.0
   ```
+- QBitTorrent
+- Portainer
+- Uptime Kuma
+- HomeAssistant
+  ```bash
+  docker run -d \
+  --name homeassistant \
+  --privileged \
+  --restart=unless-stopped \
+  -e TZ=Asia/Shanghai \
+  -v /media/devmon/sda1-ata-TOSHIBA_MQ01ABD0/docker-volumes/HomeAssistant/config:/config \
+  --network=host \
+  homeassistant/home-assistant:stable
+  ```
