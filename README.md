@@ -83,3 +83,4 @@ root@onecloud:~# blkid
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 - [searXNG](https://github.com/searxng/searxng-docker)
 - [TaleBook](https://github.com/talebook/talebook)
+- [vaultwarden](https://github.com/dani-garcia/vaultwarden)
