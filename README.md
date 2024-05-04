@@ -84,3 +84,4 @@ root@onecloud:~# blkid
 - [searXNG](https://github.com/searxng/searxng-docker)
 - [TaleBook](https://github.com/talebook/talebook)
 - [vaultwarden](https://github.com/dani-garcia/vaultwarden)
+- AdGuard Home
