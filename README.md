@@ -70,8 +70,8 @@ root@onecloud:~# blkid
 - Portainer
 - Uptime Kuma
   - 消息推送
-    - [ServerChan (Server酱)](https://sct.ftqq.com/)实现微信推送通知
-    - [PushDeer](https://www.pushdeer.com/)可自部署的轻App通知
+    - [ServerChan (Server酱)](https://sct.ftqq.com/) 实现微信推送通知
+    - [PushDeer](https://www.pushdeer.com/) 可自部署的轻App通知
 - HomeAssistant
   ```bash
   docker run -d \
