@@ -69,7 +69,7 @@ root@onecloud:~# blkid
 - QBitTorrent
 - Portainer
 - Uptime Kuma
-  - 配合[ServerChan(Server酱)](https://sct.ftqq.com/)实现微信推送通知
+  - 配合[ServerChan (Server酱)](https://sct.ftqq.com/)实现微信推送通知
 - HomeAssistant
   ```bash
   docker run -d \
