@@ -86,6 +86,7 @@ root@onecloud:~# blkid
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 - [searXNG](https://github.com/searxng/searxng-docker)
 - [TaleBook](https://github.com/talebook/talebook)
+- [Mind](https://github.com/Casvt/MIND)
 - [vaultwarden](https://github.com/dani-garcia/vaultwarden)
 - AdGuard Home
 - [qingfeng2336/it-tools](https://hub.docker.com/r/qingfeng2336/it-tools): 汉化版, 且重新编译支持armv7
