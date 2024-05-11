@@ -90,3 +90,4 @@ root@onecloud:~# blkid
 - AdGuard Home
 - [qingfeng2336/it-tools](https://hub.docker.com/r/qingfeng2336/it-tools): 汉化版, 且重新编译支持armv7
 - [Mind](https://github.com/Casvt/MIND)
+- [青龙面板](https://github.com/whyour/qinglong)
