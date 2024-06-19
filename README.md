@@ -3,6 +3,8 @@ oneCloud built with armbian
 
 #### 安装armbian
 [玩客云安装casaos、Docker、qbittorrent](https://zhuanlan.zhihu.com/p/658340519?utm_medium=social&utm_oi=697147908176224256&utm_psn=1748803540695527424&utm_source=wechat_session)
+
+
 [玩客云刷Armbian，安装docker+CasaOS+OpenWrt](https://zhuanlan.zhihu.com/p/603845854)
 
 #### 修改面板灯光
