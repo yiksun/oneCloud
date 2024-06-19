@@ -4,8 +4,9 @@ oneCloud built with armbian
 #### 安装armbian
 [玩客云安装casaos、Docker、qbittorrent](https://zhuanlan.zhihu.com/p/658340519?utm_medium=social&utm_oi=697147908176224256&utm_psn=1748803540695527424&utm_source=wechat_session)
 
-
 [玩客云刷Armbian，安装docker+CasaOS+OpenWrt](https://zhuanlan.zhihu.com/p/603845854)
+
+[玩客云刷 Armbian 系统，装 Docker/Portainer/Home Assistant 教程](https://mp.weixin.qq.com/s?__biz=MzIxOTE5MDY5Mw==&mid=2650966188&idx=1&sn=ef0558993b5d48a12867f54a65d8e35a&chksm=8c292c66bb5ea5709889351720e85360d2bcbc3176bf002ef8aa14e343e3b49dbf58dc255d0e&scene=21#wechat_redirect)
 
 #### 修改面板灯光
 把下面代码写进/etc/rc.local
