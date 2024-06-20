@@ -9,6 +9,8 @@ oneCloud built with armbian
 [玩客云刷 Armbian 系统，装 Docker/Portainer/Home Assistant 教程](https://mp.weixin.qq.com/s?__biz=MzIxOTE5MDY5Mw==&mid=2650966188&idx=1&sn=ef0558993b5d48a12867f54a65d8e35a&chksm=8c292c66bb5ea5709889351720e85360d2bcbc3176bf002ef8aa14e343e3b49dbf58dc255d0e&scene=21#wechat_redirect)
 
 [【2024年2月1日 】玩客云刷Debian小白保姆级教程AllinOne：Debian23.11+CasaOS+Docker+LED灯控制+QBitTorrent+Cpolar内网穿透+青龙+Home Assistant智能家居+Wol远程唤醒+N](https://www.right.com.cn/forum/thread-8344722-1-1.html)
+
+[CasaOS_玩客云搞基计划](https://github.com/muzihuaner/Casaos_Onecloud?tab=readme-ov-file)
 #### 修改面板灯光
 把下面代码写进/etc/rc.local
 ```
