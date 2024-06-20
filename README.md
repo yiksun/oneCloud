@@ -50,6 +50,7 @@ root@onecloud:~# blkid
 推荐 [tailscale](https://tailscale.com/), 简单方便
 
 #### Docker应用推荐
+- [三方App市场 big-bear-casaos](https://github.com/bigbeartechworld/big-bear-casaos/tree/master)
 - DrawIO:
   ```
   docker pull doctorpeso/drawio-arm
