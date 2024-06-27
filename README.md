@@ -102,3 +102,4 @@ root@onecloud:~# blkid
 - [excalidraw](https://github.com/excalidraw/excalidraw)
 - [excalidraw-docker](https://hub.docker.com/r/excalidraw/excalidraw/tags)
 - [chrome-novnc(browser in browser)](https://github.com/vital987/chrome-novnc?tab=readme-ov-file)
+- [jlesage/docker-firefox (browser in browser)](https://github.com/jlesage/docker-firefox)
