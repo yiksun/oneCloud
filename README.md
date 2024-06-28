@@ -103,3 +103,4 @@ root@onecloud:~# blkid
 - [excalidraw-docker](https://hub.docker.com/r/excalidraw/excalidraw/tags)
 - [chrome-novnc(browser in browser)](https://github.com/vital987/chrome-novnc?tab=readme-ov-file)
 - [jlesage/docker-firefox (browser in browser)](https://github.com/jlesage/docker-firefox)
+- [Docker 搭建 firefox 让你从 nas 访问家里的路由器](https://www.amjun.com/1606.html): hausen1012/firefox
